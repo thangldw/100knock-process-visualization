@@ -12,7 +12,7 @@ SoundFile==0.10.3.post1
 imbalanced-learn==0.4.3
 numpy==1.19.5
 scikit-learn==0.22.2.post1
-scipy==1.4.1
+scipy==1.11.1
 python-docx==0.8.11
 moviepy==0.2.3.5
 opencv-python==4.1.2.30
